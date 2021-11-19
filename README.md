@@ -1,4 +1,5 @@
-[![untitled.png](https://i.postimg.cc/t46wNSzd/untitled.png)](https://postimg.cc/k2nTnyzD)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/81139173/142697283-194a2a1b-1b2b-4a4e-905c-ab0b440be87f.gif)
+
 ## Travel Buddy -(front end)
 
 [Deployed to Heroku](https://travel-buddy-turing.herokuapp.com/)
